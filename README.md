@@ -23,7 +23,7 @@ Feel free to explore and engage with these projects to get a deeper understandin
 
 ## Let's Connect!
 
-I'm excited to connect with fellow data enthusiasts, professionals, and learners. Whether it's discussing projects, collaborating on data challenges, or simply sharing insights, I'm open to meaningful interactions. You can find me on [LinkedIn](https://www.linkedin.com/in/yourusername) and [Twitter](https://twitter.com/yourusername).
+I'm excited to connect with fellow data enthusiasts, professionals, and learners. Whether it's discussing projects, collaborating on data challenges, or simply sharing insights, I'm open to meaningful interactions. You can find me on [LinkedIn](https://www.linkedin.com/in/james-porter-8185b68b/) and [**X**](https://twitter.com/raventhemad)
 
 Thank you for visiting my GitHub page. Let's embark on this data-driven journey together!
 
