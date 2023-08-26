@@ -15,9 +15,9 @@ Welcome to my GitHub page! I'm **James Porter**, a dedicated professional with a
 
 My GitHub hosts a collection of projects and contributions that reflect my passion for data science and analytics. Some highlights include:
 
-- **[Project 1 Name]:** [Brief description and outcomes]
-- **[Project 2 Name]:** [Brief description and outcomes]
-- **[Project 3 Name]:** [Brief description and outcomes]
+- [**Interactive Labeling Configuration Planner:**](https://github.com/James-E-Porter/james-e-porter.github.io/blob/e72dbdbd9b47ba81b813d3ee239eecce07003df5/Interactive_Labeling.md) This was a project developed for cable labelling in a server room
+- [**Norway Weather Trends:**](https://github.com/James-E-Porter/Norway_Weather_Trends/blob/4276320dce2ffbf004f6f2ea7bba442b12429a46/Norway_Weather.ipynb) Analyzing weather trends in Norway
+- [**Primates in Animation:**](https://github.com/James-E-Porter/Primates_In_Animation/blob/fec2a51feb085a227637eb8f727ec66e4e290212/README.md) Analysis of the frequency of primates in cartoons.
 
 Feel free to explore and engage with these projects to get a deeper understanding of my capabilities.
 
